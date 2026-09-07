@@ -1,0 +1,6 @@
+interface:
+  display_name: "Recall Compact"
+  short_description: "配合 Recall 在阶段完成后按需整理交接、切换上下文并恢复任务"
+  default_prompt: "使用 $recall-compact 配合当前 Recall 执行任务，在适当阶段按需切换上下文并继续。"
+policy:
+  allow_implicit_invocation: true

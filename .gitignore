@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.test-tmp/
+.install-state/
+# Runtime handoffs belong to the consuming environment, never this repository.
+handoff.local.*
