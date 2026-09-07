@@ -93,6 +93,8 @@ UXI-001：不要求用户重复已有授权；安装联用后无需每次输入�
 
 ## 有效决策索引
 
+[VER-20260908-002](logic_version/records/logic_version-20260908-002-handoff-freshness.md)：使用证据与当前执行快照，细化接续流程。
+
 [VER-20260908-001](logic_version/records/logic_version-20260908-001-recall-compact.md)：独立附属技能与本机入口联用。完整索引见 [index](logic_version/index.md)。
 
 ## 活跃议案入口

@@ -29,6 +29,6 @@
 
 | change_id | status | scope | owner | target/summary | blocked_by | proposal_path | last_updated |
 |---|---|---|---|---|---|---|---|
-| CHG-20260908-002 | promoting | logic_domains/compact | self | 实际使用核验与交接时效性优化 | none | [CHG-20260908-002](logic_domains/compact/logic_change.md#chg-20260908-002) | 2026-09-08 |
+| CHG-20260908-002 | promoting | logic_domains/compact | self | 实际使用核验与交接时效性优化 | local-cleanup-policy | [CHG-20260908-002](logic_domains/compact/logic_change.md#chg-20260908-002) | 2026-09-08 |
 
 当前无活跃议案。历史决策见 [记录索引](logic_version/index.md)。
