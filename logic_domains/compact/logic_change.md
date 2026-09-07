@@ -69,4 +69,6 @@
 - version_record: ../../logic_version/records/logic_version-20260908-002-handoff-freshness.md
 - temp_cleanup: .test-tmp/validation-deps 仅含本次临时 PyYAML；排除提交；删除被工具安全策略拦截，已请求用户明确授权，不改用其他方式绕过。
 - blocked_by: local-cleanup-policy
+- blocked_reason: 工具安全策略拒绝删除本次临时校验依赖，仅返回 blocked by policy；功能改动、验证与同步均已完成。
+- review_due: event:user-cleanup-decision
 - last_updated: 2026-09-08
